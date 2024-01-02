@@ -1,0 +1,88 @@
+body{
+   
+
+}
+.nav-bar{
+    height: 70px;    
+}
+  .btn{   
+    display: flex;
+    float: right;
+    margin-right: 10pc;
+}
+.vedio-container-1{
+    
+
+}
+.vedio-container-2{
+    
+    margin: 5pc -16pc 3pc 4pc;
+    width: 45%;
+    cursor: pointer;
+    float: left;
+    display: flex;
+    
+}
+.vedio-container-3{
+    border: 2px solid rgb(83 62 62);
+    width: 55%;
+    border-radius: 14px;
+}
+.video_title{
+    position: absolute;
+     margin-top: 12pc;
+    margin-left: 56px;
+    height: 16vh;
+    width: 70vh;
+}
+.channel_logo{
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 100%;
+    background-color: #3d3d3d;
+    margin-left: -49px;
+    margin-top: -42px;
+
+}
+.fsChar_logo{
+    color: white;
+    padding-top: 5px;
+    margin-left: 12px;
+}
+.history_container{
+    width: 43%;
+    margin-left: 50pc;
+    margin-top: 2pc;
+}
+.history_container-2{
+    margin-left: -33px;
+
+    padding: 27px;
+    
+}
+.title_history{
+    margin-left: 26pc;
+    margin-top: -10pc ;
+    position: absolute;
+
+}
+.like-button{
+    margin-left: 16pc;
+  margin-top: -3pc;
+  font-size: 23px;
+  
+}
+.dis-like-button{
+    margin-left: 18pc;
+    margin-top: -27.9px;
+  font-size: 23px;
+ 
+}
+.like-button:hover{
+    transform: scale(1.1);
+
+}
+.dis-like-button:hover{
+    transform: scale(1.1);
+    color: red;
+}

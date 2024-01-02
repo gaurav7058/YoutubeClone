@@ -1,0 +1,47 @@
+.whl_container{
+    background-color: rgb(33,33,33);
+}
+.container_whl{
+    margin: 0;
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-between;
+}
+.box-whl{
+    width: 45%;
+    padding: 0.8rem;
+    margin-left: 10rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+.box-whl b{
+    font-size: 3rem;
+}
+.clear_hsitory_btn{
+    color: grey;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-weight: bold;
+    margin: auto 0;
+}
+.clear_hsitory_btn:hover{
+    color: white;
+}
+.rightside-whl{
+    color: white;
+}
+.rightside-whl h1{
+    margin-left: 18pc;
+    padding: 20px;
+}
+.leftside_whl{
+    background-color:rgba(0,0,0,0.153) ;
+    height: 50vh;
+
+}
+.whl_list{
+    margin-left: 18pc;
+    overflow-y: auto;
+}

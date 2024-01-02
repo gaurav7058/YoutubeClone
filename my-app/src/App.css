@@ -1,0 +1,30 @@
+ *{
+    /* background-color: rgb(67 67 67); */
+    /* background-color: rgb(33,33,33); */
+    /* background-size: cover; */
+
+
+}
+.video_box_app{
+    width: 21rem;
+    height: 17rem;
+    margin-bottom: 1rem;
+    border: 2px solid transparent;
+    
+}
+video{ 
+    background-color: rgba(8, 8, 8, 0.662);
+}
+.channel_logo_app{
+    margin: auto;
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 100%;
+    background-color: #3d3d3d;
+    display: flex;
+}
+.fsChar_logo{
+    margin: auto;
+   color: white;
+   cursor: pointer; 
+}

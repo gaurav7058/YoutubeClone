@@ -1,0 +1,27 @@
+.btn_cont_videopage{
+    display: flex;
+    flex-grow: 5;
+    flex-direction: row-reverse;
+}
+.btn-videopage{
+    margin: auto 0;
+    display: flex;
+}
+.like-videopage{
+    margin: 0.5rem;
+    display: flex;
+    cursor: pointer;
+
+}
+.btns-videopage{
+    margin: auto 0.5rem;
+}
+.subscribe-btn{
+    padding-left: 10px;
+    padding-right: 13px;
+    padding-top: 2px;
+    padding-bottom: 0px;
+    border-radius: 12px;
+    background: red;
+    color: white;
+}

@@ -1,0 +1,10 @@
+.container_showvideo_Grid{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-around;
+    background-color: rgb(33,33,33);
+    height: 40pc;
+}
+.video_box{
+
+}
